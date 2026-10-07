@@ -1,0 +1,7 @@
+praw
+langchain
+langgraph
+langchain-community
+chromadb
+python-dotenv
+pydantic
